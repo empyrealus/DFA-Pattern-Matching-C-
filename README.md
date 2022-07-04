@@ -6,4 +6,5 @@ Utilizing the regular expression (AT+G+C)*A for DNA sequences.
 
 Test Strings:
 GGGGCCCATA = Valid
+
 AATTTTGT = Invalid
